@@ -1,0 +1,1001 @@
+lets start
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5074099148425836e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:04:14 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1000      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9431    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5109173177426439e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:04:43 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1001      24000     99.2043   70.1481   57.2756   0.9782    0.9959    0.9430    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5144247206427043e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:05:08 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1002      24000     99.2043   70.1481   57.2756   0.9774    0.9949    0.9422    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5179321235427646e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:05:34 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1003      24000     99.2043   70.1481   57.2756   0.9777    0.9951    0.9430    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5214395264428250e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:05:57 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1004      24000     99.2043   70.1481   57.2756   0.9786    0.9962    0.9433    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5249469293428853e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:06:20 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1005      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9429    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5284543322429457e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:06:37 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1006      24000     99.2043   70.1481   57.2756   0.9775    0.9950    0.9429    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5319617351430060e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:07:04 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1007      24000     99.2043   70.1481   57.2756   0.9776    0.9950    0.9425    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5354691380430664e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:07:22 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1008      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9430    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5389765409431267e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:07:44 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1009      24000     99.2043   70.1481   57.2756   0.9785    0.9962    0.9431    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5424839438431871e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:08:10 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1010      24000     99.2043   70.1481   57.2756   0.9777    0.9951    0.9427    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5459913467432475e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:08:33 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1011      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9429    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5494987496433078e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:08:56 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1012      24000     99.2043   70.1481   57.2756   0.9782    0.9959    0.9424    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5530061525433682e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:09:21 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1013      24000     99.2043   70.1481   57.2756   0.9785    0.9963    0.9431    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5565135554434285e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:09:44 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1014      24000     99.2043   70.1481   57.2756   0.9779    0.9954    0.9428    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5600209583434889e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:10:04 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1015      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9427    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5635283612435492e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:10:24 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1016      24000     99.2043   70.1481   57.2756   0.9780    0.9956    0.9430    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5670357641436096e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:10:47 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1017      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9430    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5705431670436699e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:11:11 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1018      24000     99.2043   70.1481   57.2756   0.9780    0.9956    0.9429    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5740505699437303e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:11:32 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1019      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9424    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5775579728437906e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:12:00 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1020      24000     99.2043   70.1481   57.2756   0.9779    0.9954    0.9430    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5810653757438510e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:12:28 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1021      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9434    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5845727786439113e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:12:57 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1022      24000     99.2043   70.1481   57.2756   0.9782    0.9958    0.9428    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5880801815439717e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:13:21 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1023      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9427    0.9292    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5915875844440320e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:13:46 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1024      24000     99.2043   70.1481   57.2756   0.9777    0.9952    0.9426    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5950949873440924e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:14:15 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1025      24000     99.2043   70.1481   57.2756   0.9785    0.9962    0.9431    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.5986023902441527e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:14:37 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1026      24000     99.2043   70.1481   57.2756   0.9783    0.9959    0.9431    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6021097931442131e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:15:00 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1027      24000     99.2043   70.1481   57.2756   0.9775    0.9949    0.9424    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6056171960442734e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:15:26 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1028      24000     99.2043   70.1481   57.2756   0.9776    0.9951    0.9429    0.9290    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6091245989443338e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:15:50 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1029      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9428    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6126320018443941e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:16:14 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1030      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9432    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6161394047444545e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:16:38 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1031      24000     99.2043   70.1481   57.2756   0.9776    0.9951    0.9429    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6196468076445149e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:17:04 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1032      24000     99.2043   70.1481   57.2756   0.9775    0.9948    0.9427    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6231542105445752e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:17:26 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1033      24000     99.2043   70.1481   57.2756   0.9783    0.9959    0.9431    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6266616134446356e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:17:52 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1034      24000     99.2043   70.1481   57.2756   0.9785    0.9963    0.9427    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6301690163446959e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:18:18 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1035      24000     99.2043   70.1481   57.2756   0.9778    0.9953    0.9430    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6336764192447563e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:18:45 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1036      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9426    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6371838221448166e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:19:06 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1037      24000     99.2043   70.1481   57.2756   0.9781    0.9957    0.9430    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6406912250448770e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:19:36 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1038      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9433    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6441986279449373e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:20:02 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1039      24000     99.2043   70.1481   57.2756   0.9779    0.9955    0.9424    0.9300    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6477060308449977e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:20:31 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1040      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9428    0.9292    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6512134337450580e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:20:58 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1041      24000     99.2043   70.1481   57.2756   0.9780    0.9955    0.9427    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6547208366451184e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:21:22 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1042      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9432    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6582282395451787e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:21:46 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1043      24000     99.2043   70.1481   57.2756   0.9781    0.9957    0.9432    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6617356424452391e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:22:10 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1044      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9423    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6652430453452994e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:22:39 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1045      24000     99.2043   70.1481   57.2756   0.9778    0.9954    0.9429    0.9293    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6687504482453598e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:23:07 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1046      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9428    0.9303    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6722578511454201e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:23:33 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1047      24000     99.2043   70.1481   57.2756   0.9783    0.9959    0.9429    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6757652540454805e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:23:58 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1048      24000     99.2043   70.1481   57.2756   0.9775    0.9948    0.9428    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6792726569455408e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:24:23 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1049      24000     99.2043   70.1481   57.2756   0.9777    0.9951    0.9425    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6827800598456012e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:24:47 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1050      34000     99.2043   70.1481   57.2756   0.9784    0.9963    0.9429    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6862874627456615e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:25:13 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1051      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9427    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6897948656457219e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:25:40 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1052      24000     99.2043   70.1481   57.2756   0.9776    0.9950    0.9428    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6933022685457823e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:25:59 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1053      24000     99.2043   70.1481   57.2756   0.9775    0.9950    0.9426    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.6968096714458426e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:26:27 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1054      24000     99.2043   70.1481   57.2756   0.9784    0.9960    0.9431    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7003170743459030e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:26:53 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1055      24000     99.2043   70.1481   57.2756   0.9785    0.9962    0.9433    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7038244772459633e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:27:17 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1056      24000     99.2043   70.1481   57.2756   0.9777    0.9952    0.9424    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7073318801460237e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:27:41 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1057      24000     99.2043   70.1481   57.2756   0.9775    0.9949    0.9429    0.9292    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7108392830460840e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:28:05 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1058      24000     99.2043   70.1481   57.2756   0.9782    0.9958    0.9429    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7143466859461444e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:28:30 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1059      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9432    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7178540888462047e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:28:55 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1060      24000     99.2043   70.1481   57.2756   0.9779    0.9953    0.9433    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7213614917462651e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:29:20 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1061      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9424    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7248688946463254e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:29:47 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1062      24000     99.2043   70.1481   57.2756   0.9780    0.9956    0.9432    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7283762975463858e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:30:14 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1063      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9429    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7318837004464461e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:30:39 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1064      24000     99.2043   70.1481   57.2756   0.9780    0.9956    0.9428    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7353911033465065e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:31:04 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1065      24000     99.2043   70.1481   57.2756   0.9774    0.9947    0.9428    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7388985062465668e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:31:28 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1066      24000     99.2043   70.1481   57.2756   0.9779    0.9954    0.9426    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7424059091466272e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:31:54 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1067      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9432    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7459133120466875e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:32:21 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1068      24000     99.2043   70.1481   57.2756   0.9782    0.9958    0.9429    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7494207149467479e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:32:45 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1069      24000     99.2043   70.1481   57.2756   0.9774    0.9949    0.9424    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7529281178468082e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:33:11 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1070      24000     99.2043   70.1481   57.2756   0.9777    0.9952    0.9429    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7564355207468686e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:33:35 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1071      24000     99.2043   70.1481   57.2756   0.9785    0.9963    0.9427    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7599429236469289e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:34:01 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1072      24000     99.2043   70.1481   57.2756   0.9783    0.9960    0.9432    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7634503265469893e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:34:27 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1073      24000     99.2043   70.1481   57.2756   0.9775    0.9949    0.9428    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7669577294470497e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:34:56 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1074      24000     99.2043   70.1481   57.2756   0.9776    0.9950    0.9429    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7704651323471100e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:35:23 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1075      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9430    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7739725352471704e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:35:55 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1076      24000     99.2043   70.1481   57.2756   0.9785    0.9961    0.9430    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7774799381472307e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:36:22 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1077      24000     99.2043   70.1481   57.2756   0.9777    0.9951    0.9429    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7809873410472911e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:36:49 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1078      24000     99.2043   70.1481   57.2756   0.9775    0.9949    0.9425    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7844947439473514e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:37:16 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1079      24000     99.2043   70.1481   57.2756   0.9783    0.9959    0.9432    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7880021468474118e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:37:42 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1080      48000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9431    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7915095497474721e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:38:11 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1081      24000     99.2043   70.1481   57.2756   0.9778    0.9953    0.9428    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7950169526475325e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:38:37 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1082      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9426    0.9295    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.7985243555475928e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:38:54 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1083      24000     99.2043   70.1481   57.2756   0.9781    0.9957    0.9427    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8020317584476532e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:39:20 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1084      24000     99.2043   70.1481   57.2756   0.9786    0.9963    0.9432    0.9303    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8055391613477135e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:39:45 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1085      24000     99.2043   70.1481   57.2756   0.9780    0.9955    0.9430    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8090465642477739e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:40:12 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1086      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9426    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8125539671478342e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:40:37 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1087      24000     99.2043   70.1481   57.2756   0.9780    0.9955    0.9430    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8160613700478946e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:41:02 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1088      24000     99.2043   70.1481   57.2756   0.9786    0.9964    0.9430    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8195687729479549e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:41:28 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1089      24000     99.2043   70.1481   57.2756   0.9781    0.9957    0.9428    0.9297    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8230761758480153e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:41:55 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1090      24000     99.2043   70.1481   57.2756   0.9774    0.9948    0.9426    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8265835787480756e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:42:22 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1091      24000     99.2043   70.1481   57.2756   0.9778    0.9953    0.9427    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8300909816481360e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:42:47 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1092      24000     99.2043   70.1481   57.2756   0.9785    0.9962    0.9429    0.9301    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8335983845481963e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:43:13 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1093      24000     99.2043   70.1481   57.2756   0.9783    0.9959    0.9430    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8371057874482567e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:43:35 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1094      24000     99.2043   70.1481   57.2756   0.9775    0.9950    0.9426    0.9294    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8406131903483171e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:44:00 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1095      24000     99.2043   70.1481   57.2756   0.9776    0.9951    0.9428    0.9296    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8441205932483774e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:44:24 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1096      24000     99.2043   70.1481   57.2756   0.9784    0.9961    0.9431    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8476279961484378e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:44:54 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1097      24000     99.2043   70.1481   57.2756   0.9784    0.9960    0.9429    0.9298    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8511353990484981e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:45:24 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1098      24000     99.2043   70.1481   57.2756   0.9776    0.9950    0.9428    0.9299    
+#F A 1 1 1 3 3 2
+#C number type mass x y z vx vy vz Epot eam_rho
+#X 	9.9204335000000000e+01 0.0000000000000000e+00 0.0000000000000000e+00
+#Y 	0.0000000000000000e+00 7.0148058000000006e+01 -3.8546428019485585e-01
+#Z 	0.0000000000000000e+00 0.0000000000000000e+00 5.7275649000000001e+01
+## Generated on Fri Oct 12 11:45:46 2018
+## by imd_mpi_eam4point_nve_fnorm_homdef_stress_fbc_nbl_mono_imfd7059 (version of )
+#E
+ChkptNum  NumAtoms  Lx        Ly        Lz        Epot      Epot0     Epot1     Epot2     
+1099      24000     99.2043   70.1481   57.2756   0.9775    0.9950    0.9425    0.9295    
