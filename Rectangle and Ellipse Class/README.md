@@ -4,7 +4,7 @@ A Rectangle class that calculate area and parameter of a Rectangle
 
 Ellipse Class:
 
-A Ellipse class that calculates\
+A Ellipse class that calculates
 1. Area
 2. parameter
 3. position of points in an ellipse
